@@ -1,0 +1,28 @@
+{
+    "name": "Breadwinner_Payments",
+    "namespace": "bwp_rc",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "52.0",
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "Breadwinner Payments",
+            "postInstallScript": "PostInstallHandler",
+            "versionName": "2.0",
+            "versionNumber": "2.0.0.NEXT"
+        }
+    ],
+    "packageAliases": {
+        "Breadwinner Payments": "0Ho6e000000CaXjCAK",
+        "Breadwinner Payments@1.0.0-1": "04t6e000001qwVzAAI",
+        "Breadwinner Payments@1.0.0-2": "04t6e000001qwW4AAI",
+        "Breadwinner Payments@1.0.0-3": "04t6e000001qwW9AAI",
+        "Breadwinner Payments@1.0.0-5": "04t6e000001qwWJAAY",
+        "Breadwinner Payments@1.0.0-6": "04t6e000001qwWOAAY",
+        "Breadwinner Payments@1.0.0-7": "04t6e000001qwWTAAY",
+        "Breadwinner Payments@2.0.0-4": "04t6e000001qwWsAAI",
+        "Breadwinner Payments@2.0.0-5": "04t6e000001qwWxAAI",
+        "Breadwinner Payments@2.0.0-6": "04t6e000001qwX2AAI"
+    }
+}
